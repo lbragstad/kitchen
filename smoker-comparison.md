@@ -95,3 +95,22 @@
 
 * Requires pellet fuels, possibly brand-specific
 * Cooking temperature probably won't exceed 500 degrees Fahrenheit
+
+## Green Mountain Daniel Boone
+
+* Model: [Daniel Boone](https://greenmountaingrills.com/products/grills/daniel-boone-pellet-grill-non-wifi-blk/)
+* Cost: ~ $600
+* Fuel type: pellet
+* Cooking area: 458 sq. inches
+
+### Pros
+
+* Add fuel without disturbing cook or smoke
+* Easy to maintain temperature
+* Cost-effective
+* Easier to move around
+
+### Cons
+
+* Requires pellet fuels, possibly brand-specific
+* Cooking temperature probably won't exceed 500 degrees Fahrenheit
