@@ -4,7 +4,7 @@
 ## Traeger Pro Series 34
 
 * Model: [TFB88PZB](https://www.traegergrills.com/shop/grills/pro-series/34-bronze/TFB88PZB.html#gclid=CjwKCAjwzoDXBRBbEiwAGZRIeEeYBhivkU1KiO1RZjgQ-1zBuzi7Fym7PPXaGWBy0AbfNKwS7tD3ShoCNKUQAvD_BwE)
-* Cost: ~ $1,000
+* Cost: ~ **$1,000**
 * Fuel type: pellet
 * Cooking area: 884 sq. inches
 
@@ -23,7 +23,7 @@
 ## Traeger Lil Tex Elite
 
 * Model: [Pellet 22"](https://www.traegergrills.com/shop/grills/elite-series/lil-tex/TFB42LZBO.html)
-* Cost: ~ $700
+* Cost: ~ **$700**
 * Fuel type: pellet
 * Cooking area: 418 sq. inches
 
@@ -43,7 +43,7 @@
 ## Kamado Joe 18"
 
 * Model: [Classic II 18"](http://www.kamadojoe.com/grills/classic-18/#1460479123583-99b2c8f9-9b46)
-* Cost: ~ $1,200
+* Cost: ~ **$1,200**
 * Fuel type: charcoal
 * Cooking area: 256 sq. inches
 
@@ -60,10 +60,28 @@
 * Smaller cooking surface
 * Have to remove food to add fuel
 
+## Char-Griller Acorn
+
+* Model: [Acorn Kamado 16820](https://www.chargriller.com/collections/kamado-grills/products/akorn-kamado-16820)
+* Cost: ~ **$329**
+* Fuel type: charcoal
+* Cooking area: 314 sq. inches
+
+### Pros
+
+* Higher cooking temperatures
+* Generic fuel possible
+* Add on for temperature control (maybe?)
+
+### Cons
+
+* Smaller cooking surface
+* Have to remove food to add fuel
+
 ## Yoder YS480
 
 * Model: [YS 480](https://www.yodersmokers.com/ys480-pellet-grill.html)
-* Cost: ~ $1,300
+* Cost: ~ **$1,300**
 * Fuel type: pellet
 * Cooking area: 800 - 1070 sq. inches
 
@@ -82,7 +100,7 @@
 ## Yoder Cheyenne
 
 * Model: [Cheyenne](https://www.yodersmokers.com/cheyenne.html)
-* Cost: ~ $900
+* Cost: ~ **$900**
 * Fuel type: wood
 * Cooking area: 703 sq. inches
 
@@ -100,7 +118,7 @@
 ## Green Mountain Jim Bowie
 
 * Model: [Jim Bowie](https://greenmountaingrills.com/products/grills/jim-bowie-pellet-grill-wifi/)
-* Cost: ~ $1,000
+* Cost: ~ **$1,000**
 * Fuel type: pellet
 * Cooking area: 658 sq. inches
 
@@ -119,7 +137,7 @@
 ## Green Mountain Daniel Boone
 
 * Model: [Daniel Boone](https://greenmountaingrills.com/products/grills/daniel-boone-pellet-grill-non-wifi-blk/)
-* Cost: ~ $600
+* Cost: ~ **$600**
 * Fuel type: pellet
 * Cooking area: 458 sq. inches
 
