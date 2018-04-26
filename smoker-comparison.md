@@ -3,13 +3,13 @@
 | Model        | Cooking Area (sq. inches) | Fuel Type | Estimated Cost |
 |:-------------|--------------------------:|----------:|---------------:|
 |Pro Series 34 |                        884|pellet     |          $1,000|
-|Lil Tex Elite |                        418|pellet     |            $700|
-|Kamado Joe 18"|                        256|charcoal   |          $1,200|
-|Acorn         |                        314|charcoal   |            $329|
 |YS480         |                        800|pellet     |          $1,300|
-|Cheyenne      |                        703|wood       |            $900|
 |Jim Bowie     |                        658|pellet     |          $1,000|
 |Daniel Boone  |                        458|pellet     |            $600|
+|Lil Tex Elite |                        418|pellet     |            $700|
+|Acorn         |                        314|charcoal   |            $329|
+|Kamado Joe 18"|                        256|charcoal   |          $1,200|
+|Cheyenne      |                        703|wood       |            $900|
 
 ## Traeger Pro Series 34
 
