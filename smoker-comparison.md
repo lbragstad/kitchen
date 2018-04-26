@@ -102,7 +102,7 @@
 ### Cons
 
 * Expensive
-* Probably won't get as hot as a Kamado, Big Green Egg, or Acorn
+* Probably won't get as hot as a Kamado Joe, Big Green Egg, or Acorn
 
 ## Yoder Cheyenne
 
