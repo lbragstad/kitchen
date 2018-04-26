@@ -98,6 +98,7 @@
 * Easy temperature management
 * Large cooking surface
 * Add fuel without disturbing cook or smoke
+* Solid construction, feels well built
 
 ### Cons
 
