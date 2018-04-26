@@ -20,6 +20,26 @@
 * Brand-specific fuel
 * Cooking temperature probably won't exceed 500 degrees Fahrenheit
 
+## Traeger Lil Tex Elite
+
+* Model: [Pellet 22"](https://www.traegergrills.com/shop/grills/elite-series/lil-tex/TFB42LZBO.html)
+* Cost: ~ $700
+* Fuel type: pellet
+* Cooking area: 418 sq. inches
+
+### Pros
+
+* Easy temperature management
+* Add fuel without disturbing the cook or smoke
+* Relatively light and easy to move
+* Cost-effective
+
+### Cons
+
+* Brand-specific fuel
+* Smaller cooking surface
+* Cooking temperature probably won't exceed 500 degrees Fahrenheit
+
 ## Kamado Joe 18"
 
 * Model: [Classic II 18"](http://www.kamadojoe.com/grills/classic-18/#1460479123583-99b2c8f9-9b46)
