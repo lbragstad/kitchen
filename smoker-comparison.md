@@ -17,7 +17,6 @@
 ### Cons
 
 * Expensive
-* Brand-specific fuel
 * Cooking temperature probably won't exceed 500 degrees Fahrenheit
 
 ## Traeger Lil Tex Elite
@@ -36,7 +35,6 @@
 
 ### Cons
 
-* Brand-specific fuel
 * Smaller cooking surface
 * Cooking temperature probably won't exceed 500 degrees Fahrenheit
 
@@ -94,7 +92,6 @@
 ### Cons
 
 * Expensive
-* Requires pellet fuels
 * Probably won't get as hot as a Kamado, Big Green Egg, or Acorn
 
 ## Yoder Cheyenne
@@ -131,7 +128,6 @@
 
 ### Cons
 
-* Requires pellet fuels, possibly brand-specific
 * Cooking temperature probably won't exceed 500 degrees Fahrenheit
 
 ## Green Mountain Daniel Boone
@@ -150,5 +146,4 @@
 
 ### Cons
 
-* Requires pellet fuels, possibly brand-specific
 * Cooking temperature probably won't exceed 500 degrees Fahrenheit
