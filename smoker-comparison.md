@@ -31,7 +31,7 @@
 
 ## Traeger Lil Tex Elite
 
-* Model: [Pellet 22"](https://www.traegergrills.com/shop/grills/elite-series/lil-tex/TFB42LZBO.html)
+* Model: [TFB42LZBO](https://www.traegergrills.com/shop/grills/elite-series/lil-tex/TFB42LZBO.html)
 * Cost: ~ **$700**
 * Fuel type: pellet
 * Cooking area: 418 sq. inches
