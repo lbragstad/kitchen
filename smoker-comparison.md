@@ -59,7 +59,8 @@
 
 * Higher cooking temperatures
 * Generic fuel possible
-* Add on for temperature control
+* [Add on](https://bbqguru.com/storenav?categoryid=1&productid=22) for
+  temperature control
 * More [features](https://www.bbqguys.com/bbq-learning-center/comparisons/big-green-egg-vs-kamado-joe) than other ceramic smoker/grills
 
 ### Cons
@@ -79,7 +80,8 @@
 
 * Higher cooking temperatures
 * Generic fuel possible
-* Add on for temperature control (maybe?)
+* [Add on](https://bbqguru.com/storenav?categoryid=1&productid=22) for
+  temperature control
 
 ### Cons
 
