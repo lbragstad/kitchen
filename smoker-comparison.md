@@ -4,9 +4,9 @@
 |:------------------------|--------------------------:|----------:|---------------:|
 |**Traeger** Pro Series 34|884                        |pellet     |          $1,000|
 |**Yoder** YS480          |790                        |pellet     |          $1,300|
-|**Traeger** Jim Bowie    |658                        |pellet     |            $730|
+|**GMG** Jim Bowie        |658                        |pellet     |            $730|
 |**GMG** Daniel Boone     |458                        |pellet     |            $550|
-|**GMG** Lil Tex Elite    |418                        |pellet     |            $700|
+|**Traeger** Lil Tex Elite|418                        |pellet     |            $700|
 |**Char-Griller** Acorn   |314                        |charcoal   |            $330|
 |**Kamado Joe** 18"       |256                        |charcoal   |          $1,200|
 |**Yoder** Cheyenne       |703                        |wood       |            $900|
