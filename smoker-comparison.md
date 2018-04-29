@@ -1,15 +1,17 @@
 # Smoker Comparison
 
-| Model        | Cooking Area (sq. inches) | Fuel Type | Estimated Cost |
-|:-------------|--------------------------:|----------:|---------------:|
-|Pro Series 34 |                        884|pellet     |          $1,000|
-|YS480         |                        800|pellet     |          $1,300|
-|Jim Bowie     |                        658|pellet     |          $1,000|
-|Daniel Boone  |                        458|pellet     |            $600|
-|Lil Tex Elite |                        418|pellet     |            $700|
-|Acorn         |                        314|charcoal   |            $329|
-|Kamado Joe 18"|                        256|charcoal   |          $1,200|
-|Cheyenne      |                        703|wood       |            $900|
+| Model             | Cooking Area (sq. inches) | Fuel Type | Estimated Cost |
+|:------------------|--------------------------:|----------:|---------------:|
+|Pro Series 34      |                        884|pellet     |          $1,000|
+|YS480              |                        800|pellet     |          $1,300|
+|Jim Bowie (wifi)   |                        658|pellet     |          $1,000|
+|Jim Bowie          |                        658|pellet     |            $724|
+|Daniel Boone (wifi)|                        458|pellet     |            $684|
+|Daniel Boone       |                        458|pellet     |            $549|
+|Lil Tex Elite      |                        418|pellet     |            $700|
+|Acorn              |                        314|charcoal   |            $329|
+|Kamado Joe 18"     |                        256|charcoal   |          $1,200|
+|Cheyenne           |                        703|wood       |            $900|
 
 ## Traeger Pro Series 34
 
@@ -125,7 +127,7 @@
 * Requires more work to maintain temperature
 * Heavy (> 300 lbs.)
 
-## Green Mountain Jim Bowie
+## Green Mountain Jim Bowie (Wifi Enabled)
 
 * Model: [Jim Bowie](https://greenmountaingrills.com/products/grills/jim-bowie-pellet-grill-wifi/)
 * Cost: ~ **$1,000**
@@ -135,9 +137,50 @@
 ### Pros
 
 * Large cooking surface
+* Large headspace
 * Add fuel without disturbing cook or smoke
 * Ability to turn on over the network (not sure I really care about this)
 * Easy to maintain temperature
+
+### Cons
+
+* Cooking temperature probably won't exceed 550 degrees Fahrenheit
+
+## Green Mountain Jim Bowie
+
+* Model: [Jim Bowie](https://greenmountaingrills.com/products/grills/jim-bowie-pellet-grill-non-wifi-blk/)
+* Cost: ~ **$724**
+* Fuel type: pellet
+* Cooking area: 658 sq. inches
+
+### Pros
+
+* Large cooking surface
+* Large headspace
+* Add fuel without disturbing cook or smoke
+* Easy to maintain temperature
+* More cost-effective than a Traeger
+
+### Cons
+
+* Cooking temperature probably won't exceed 550 degrees Fahrenheit
+
+## Green Mountain Daniel Boone (Wifi Enabled)
+
+* Model: [Daniel Boone](https://greenmountaingrills.com/products/grills/daniel-boone-blk/)
+* Cost: ~ **$684**
+* Fuel type: pellet
+* Cooking area: 458 sq. inches
+
+### Pros
+
+* Large cooking surface
+* Large headspace
+* Add fuel without disturbing cook or smoke
+* Ability to turn on over the network (not sure I really care about this)
+* Easy to maintain temperature
+* Cost-effective compared to Traeger
+* Easier to move around
 
 ### Cons
 
@@ -146,15 +189,17 @@
 ## Green Mountain Daniel Boone
 
 * Model: [Daniel Boone](https://greenmountaingrills.com/products/grills/daniel-boone-pellet-grill-non-wifi-blk/)
-* Cost: ~ **$600**
+* Cost: ~ **$549**
 * Fuel type: pellet
 * Cooking area: 458 sq. inches
 
 ### Pros
 
+* Large cooking surface
+* Large headspace
 * Add fuel without disturbing cook or smoke
 * Easy to maintain temperature
-* Cost-effective
+* Cost-effective compared to Traeger
 * Easier to move around
 
 ### Cons
