@@ -2,21 +2,21 @@
 
 | Model             | Cooking Area (sq. inches) | Fuel Type | Estimated Cost |
 |:------------------|--------------------------:|----------:|---------------:|
-|Pro Series 34      |                        884|pellet     |          $1,000|
-|YS480              |                        800|pellet     |          $1,300|
-|Jim Bowie          |                        658|pellet     |            $724|
-|Daniel Boone       |                        458|pellet     |            $549|
-|Lil Tex Elite      |                        418|pellet     |            $700|
-|Acorn              |                        314|charcoal   |            $329|
-|Kamado Joe 18"     |                        256|charcoal   |          $1,200|
-|Cheyenne           |                        703|wood       |            $900|
+|Pro Series 34      |884                        |pellet     |          $1,000|
+|YS480              |790                        |pellet     |          $1,300|
+|Jim Bowie          |658                        |pellet     |            $724|
+|Daniel Boone       |458                        |pellet     |            $549|
+|Lil Tex Elite      |418                        |pellet     |            $700|
+|Acorn              |314                        |charcoal   |            $329|
+|Kamado Joe 18"     |256                        |charcoal   |          $1,200|
+|Cheyenne           |703                        |wood       |            $900|
 
 ## Traeger Pro Series 34
 
 * Model: [TFB88PZB](https://www.traegergrills.com/shop/grills/pro-series/34-bronze/TFB88PZB.html#gclid=CjwKCAjwzoDXBRBbEiwAGZRIeEeYBhivkU1KiO1RZjgQ-1zBuzi7Fym7PPXaGWBy0AbfNKwS7tD3ShoCNKUQAvD_BwE)
 * Cost: ~ **$1,000**
 * Fuel type: pellet
-* Cooking area: 884 sq. inches
+* Cooking area: 884 sq. inches (646 main rack + 238 upper rack)
 
 ### Pros
 
@@ -95,7 +95,7 @@
 * Model: [YS 480](https://www.yodersmokers.com/ys480-pellet-grill.html)
 * Cost: ~ **$1,300**
 * Fuel type: pellet
-* Cooking area: 800 - 1070 sq. inches
+* Cooking area: 790 sq. inches (480 main rack + 310 upper rack)
 
 ### Pros
 
@@ -108,6 +108,7 @@
 
 * Expensive
 * Probably won't get as hot as a Kamado Joe, Big Green Egg, or Acorn
+* Heavy
 
 ## Yoder Cheyenne
 
@@ -132,7 +133,7 @@
 * Model: [Jim Bowie](https://greenmountaingrills.com/products/grills/jim-bowie-pellet-grill-non-wifi-blk/)
 * Cost: ~ **$724**
 * Fuel type: pellet
-* Cooking area: 658 sq. inches
+* Cooking area: 658 sq. inches (40x16)
 
 ### Pros
 
@@ -152,7 +153,7 @@
 * Model: [Daniel Boone](https://greenmountaingrills.com/products/grills/daniel-boone-pellet-grill-non-wifi-blk/)
 * Cost: ~ **$549**
 * Fuel type: pellet
-* Cooking area: 458 sq. inches
+* Cooking area: 458 sq. inches (27x16)
 
 ### Pros
 
