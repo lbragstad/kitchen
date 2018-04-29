@@ -1,15 +1,15 @@
 # Smoker Comparison
 
-| Model             | Cooking Area (sq. inches) | Fuel Type | Estimated Cost |
-|:------------------|--------------------------:|----------:|---------------:|
-|Pro Series 34      |884                        |pellet     |          $1,000|
-|YS480              |790                        |pellet     |          $1,300|
-|Jim Bowie          |658                        |pellet     |            $724|
-|Daniel Boone       |458                        |pellet     |            $549|
-|Lil Tex Elite      |418                        |pellet     |            $700|
-|Acorn              |314                        |charcoal   |            $329|
-|Kamado Joe 18"     |256                        |charcoal   |          $1,200|
-|Cheyenne           |703                        |wood       |            $900|
+| Model                   | Cooking Area (sq. inches) | Fuel Type | Estimated Cost |
+|:------------------------|--------------------------:|----------:|---------------:|
+|**Traeger** Pro Series 34|884                        |pellet     |          $1,000|
+|**Yoder** YS480          |790                        |pellet     |          $1,300|
+|**Traeger** Jim Bowie    |658                        |pellet     |            $724|
+|**GMG** Daniel Boone     |458                        |pellet     |            $549|
+|**GMG** Lil Tex Elite    |418                        |pellet     |            $700|
+|**Char-Griller** Acorn   |314                        |charcoal   |            $329|
+|**Kamado Joe** 18"       |256                        |charcoal   |          $1,200|
+|**Yoder** Cheyenne       |703                        |wood       |            $900|
 
 ## Traeger Pro Series 34
 
