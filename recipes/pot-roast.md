@@ -9,13 +9,13 @@
 * 3 carrots (cut into 2 inch pieces)
 * 3 stalks celery (cut into 2 inch pieces)
 * 2 cloves garlic (minced)
-* 3 cups of stock (vegetable or beef) *
+* 3 cups of stock (vegetable or beef)
 * 2 bay leaves (crumpled)
 * 2 - 3 sprigs of thyme
 * 2 tsp corn starch
 * 1/2 cup heavy cream
 
-* If using vegetable stock, add two teaspoons Worcestershire sauce
+Note: If using vegetable stock, add two teaspoons Worcestershire sauce
 
 ## Directions
 
