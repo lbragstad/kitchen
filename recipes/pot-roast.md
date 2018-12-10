@@ -2,7 +2,7 @@
 
 ## Ingredient
 
-* roast (4 - 5 lb)
+* beef roast (4 - 5 lb)
 * salt & black pepper
 * 2 Tbsp canola oil or clarified butter
 * 1/2 onion (chopped)
