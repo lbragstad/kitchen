@@ -4,12 +4,6 @@
 
 ## Ingredients
 
-### Basic Asian Brine
-
-* 1/4 cup soy sauce
-* 1/4 cup kosher salt
-* 10 cups cold water
-
 ### Asian Brine
 
 * 1/4 cup kosher salt
@@ -40,3 +34,13 @@ Add the following 4 hours before removing from the brine:
   internal temperature of 150 degrees Fahrenheit
 * Remove from the cooker and rest for at least 30 minutes
 * Slice into thin strips across the grain
+
+## Additional Notes
+
+### Basic Asian Brine
+
+The brine in this recipe was built using the following salt-to-water ratio:
+
+* 1/4 cup soy sauce
+* 1/4 cup kosher salt
+* 10 cups cold water
