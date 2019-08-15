@@ -1,7 +1,5 @@
 # Asian Smoked Goose
 
-The ideal brine is 5% salt per weight, or 20 parts water to 1 part salt.
-
 ## Ingredients
 
 ### Basic Asian Brine
