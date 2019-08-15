@@ -1,5 +1,7 @@
 # Asian Smoked Goose
 
+![Asian smoked goose](../images/smoked-goose.jpg)
+
 ## Ingredients
 
 ### Basic Asian Brine
